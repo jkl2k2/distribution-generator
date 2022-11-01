@@ -1,2 +1,2 @@
-# mathematical-random-number-generator
+# distribution-generator
 ### A Python program utilizing numpy and matplotlib to generate and graph random distributions.
